@@ -1,0 +1,8 @@
+
+{
+  "name": "AI 프로페셔널 프로필 메이커",
+  "description": "사용자의 평범한 사진을 이력서 및 프로필용 전문 스튜디오 사진으로 변환해주는 AI 도구입니다.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
